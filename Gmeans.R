@@ -114,4 +114,4 @@ for(i in 1:clusters) {
   points(s[, c("x1", "x3")], col=colors[i])
 }
 
-# discussed with ibobra
+
